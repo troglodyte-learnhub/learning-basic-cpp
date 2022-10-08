@@ -3,13 +3,13 @@
    author: Michael Gene Brockus
    gmail: <michaelbrockus@gmail.com>
 */
-#include <stdio.h>
+#include <cstdio>
 #include <troglodyte/utest.h>
 
-extern void solve(void);
+extern void solve();
 
 
-static void test_01_callSolveFunction(void)
+static void test_01_callSolveFunction()
 {
     solve();
 

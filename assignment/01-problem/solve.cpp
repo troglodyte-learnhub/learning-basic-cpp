@@ -3,14 +3,14 @@
    author: Michael Gene Brockus
    gmail: <michaelbrockus@gmail.com>
 */
-#include <stdio.h>
+#include <cstdio>
 
 /*
  >
  > solve this function before the due date. 
  >
 */
-void solve(void)
+void solve()
 {
     puts("Greetings");
 } // end of func

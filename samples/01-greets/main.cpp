@@ -3,7 +3,7 @@
    author: Michael Gene Brockus
    gmail: <michaelbrockus@gmail.com>
 */
-#include <stdio.h>
+#include <cstdio>
 
 /*
  >

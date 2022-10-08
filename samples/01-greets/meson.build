@@ -1,3 +1,3 @@
-project('Greets', 'c')
+project('Greets', 'cpp')
 
-executable('prog', 'main.c')
+executable('prog', 'main.cpp')
